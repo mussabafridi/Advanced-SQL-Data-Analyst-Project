@@ -1,4 +1,4 @@
-GitHub Project: Sales & Customer Strategic Analytics (T-SQL)
+Sales & Customer Strategic Analytics (T-SQL)
 Project Overview
 This repository contains a comprehensive SQL-based data analysis project designed to transform raw transactional data into high-level business intelligence. The project utilizes a Gold Layer architecture to provide a "single source of truth" for sales performance, customer behavior, and product lifecycle metrics.
 
